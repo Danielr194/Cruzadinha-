@@ -6,4 +6,9 @@ function validar(input){
     }else{
         input.style = `background-color: red `;
     }
-}
+
+    
+
+
+
+} 
